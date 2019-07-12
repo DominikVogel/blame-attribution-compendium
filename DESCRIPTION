@@ -1,6 +1,6 @@
 Type: Compendium
-Package: Compendium The Power of Conformity in Citizens'
-    Blame
+Package: Compendium The Power of Conformity in
+    Citizens'
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
@@ -15,7 +15,7 @@ Authors@R:
       )
 Description: This is the compendium for the article Sievert, M.,
     Vogel, D., Reinders, T., & Ahmed, W. (forthcoming). The Power of
-    Conformity in Citizens'<92>' Blame: Evidence from a Survey Experiment.
+    Conformity in Citizens' Blame: Evidence from a Survey Experiment.
     Public Performance & Management Review.
 License: MIT
 Depends: 
