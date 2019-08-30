@@ -9,5 +9,8 @@ Compendium for the article Sievert, M., Vogel, D., Reinders, T., &amp; Ahmed, W.
 # Reproduce Analyses
 To reproduce the analyzes, click the Binder button. It will start an interactive RStudio session, where you can run the code in ``code/Analysis.R``.
 
+# Codebook
+The codebook for the data can be found here: https://dominikvogel.github.io/blame-attribution-compendium/codebook.html
+
 # More Information
 Can be found in the OSF Repository: https://osf.io/4ad5m/
