@@ -8,3 +8,6 @@ Compendium for the article Sievert, M., Vogel, D., Reinders, T., &amp; Ahmed, W.
 
 # Reproduce Analyses
 To reproduce the analyzes, click the Binder button. It will start an interactive RStudio session, where you can run the code in ``code/Analysis.R``.
+
+# More Information
+Can be found in the OSF Repository: https://osf.io/4ad5m/
